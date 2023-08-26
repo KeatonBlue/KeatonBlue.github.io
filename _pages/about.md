@@ -13,7 +13,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Professor [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE](https://www.cyberdyne.jp/).
