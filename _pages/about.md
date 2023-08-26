@@ -29,4 +29,4 @@ With his research, Keaton seeks to design a future that unlocks user's creativit
 
 His current research focus is on guided-wave acousto-optic devices for holographic video.
 
-![Keaton as DJ](assets/img/keat_DJ.JPG "Keaton as DJ")
+<img src="assets/img/keat_DJ.JPG" alt="Keaton as DJ" width="1200"/>
