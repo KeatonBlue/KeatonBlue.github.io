@@ -28,5 +28,3 @@ His research interests include holography, volumetric displays, human-computer i
 With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. He advocates for freedom from the "PIXEL PRISON" via "DEATH TO THE SCREEN".
 
 His current research focus is on guided-wave acousto-optic devices for holographic video.
-
-<img src="assets/img/keat_DJ.JPG" alt="Keaton as DJ" width="1200"/>
