@@ -22,7 +22,7 @@ Previously, he earned a B.S. in Electrical Engineering from Brigham Young Univer
 
 In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He creates new experiences by repurposing obsolete hardware systems.
 
-## Research
+### Research
 His research interests include holography, volumetric displays, human-computer interaction, integrated photonics, and calm technology. He approaches research from an integrated left–right brain perspective.
 
 With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. He advocates for freedom from the "PIXEL PRISON" via "DEATH TO THE SCREEN".
