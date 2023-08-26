@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Media Alchemist
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Professor [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE](https://www.cyberdyne.jp/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in Dr. Daniel Smalley's [Electro-Holography Lab](https://www.smalleyholography.org/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He creates new experiences by repurposing obsolete hardware systems.
+
+## Research
+His research interests include holography, volumetric displays, human-computer interaction, integrated photonics, and calm technology. He approaches research from an integrated left–right brain perspective.
+
+With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. He advocates for freedom from the "PIXEL PRISON" via "DEATH TO THE SCREEN".
+
+His current research focus is on guided-wave acousto-optic devices for holographic video.
+
+![Keaton as DJ](assets/img/keat_DJ.JPG "Keaton as DJ")
