@@ -1,4 +1,8 @@
-
+---
+layout: about
+title: about
+permalink: /
+---
 
 ### Media
 ▩ 2022: FUTURES PIXIE DUST RADIO – Interview on Tokyo FM [recording](https://audee.jp/voice/show/43655)
