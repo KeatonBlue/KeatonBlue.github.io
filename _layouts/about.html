@@ -47,8 +47,9 @@ layout: default
             {%- include news.html limit=true %}
           {%- endif %}
 
-          <img src="assets/img/keat_DJ.JPG" alt="Keaton as DJ" width="1200"/>
+          {% include_relative about2.md %} <!--- Include your markdown here -->
 
+          
           <!-- Latest posts -->
           {% if page.latest_posts -%}
             <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
@@ -60,6 +61,8 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <img src="assets/img/keat_DJ.JPG" alt="Keaton as DJ" width="1200"/>
 
           <!-- Social -->
           {%- if page.social %}

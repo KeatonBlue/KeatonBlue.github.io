@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 
+  address: ▨▨▨[Curriculum Vitae](https://keaton.blue/assets/pdf/Shurilla_CV.pdf)▧▧▧
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
