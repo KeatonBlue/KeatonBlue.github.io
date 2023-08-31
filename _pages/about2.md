@@ -1,7 +1,5 @@
 ---
-layout: about
-title: about
-permalink: /
+layout: page
 ---
 
 ### Media
