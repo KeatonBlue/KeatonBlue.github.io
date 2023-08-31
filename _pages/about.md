@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: ▨▨▨[Curriculum Vitae](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf)▧▧▧
+  address: ▨▨▨ [Curriculum Vitae](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Professor [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE](https://www.cyberdyne.jp/).
+Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Prof. [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE](https://www.cyberdyne.jp/).
 
-Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in Dr. Daniel Smalley's [Electro-Holography Lab](https://www.smalleyholography.org/).
+Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in Prof. Daniel Smalley's [Electro-Holography Lab](https://www.smalleyholography.org/).
 
 In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He creates new experiences by repurposing obsolete hardware systems.
 
