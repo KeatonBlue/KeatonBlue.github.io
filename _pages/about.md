@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Media Alchemist
+subtitle: Electrical Engineer
 
 profile:
   align: left
@@ -16,15 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Prof. [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE](https://www.cyberdyne.jp/).
+Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Prof. [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE INC.](https://www.cyberdyne.jp/).
 
 Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in Prof. Daniel Smalley's [Electro-Holography Lab](https://www.smalleyholography.org/).
 
-In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He creates new experiences by repurposing obsolete hardware systems.
+In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He exploits obsolete hardware systems, such as retro sound ICs, to produce club-focused music.
 
 ### Research
 His research interests include holography, volumetric displays, human-computer interaction, integrated photonics, and calm technology. He approaches research from an integrated left–right brain perspective.
 
-With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. He advocates for freedom from the "PIXEL PRISON" via "DEATH TO THE SCREEN".
+With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. His quest is to free users from the pixel prison of modern technology.
 
 His current research focus is on guided-wave acousto-optic devices for holographic video.
