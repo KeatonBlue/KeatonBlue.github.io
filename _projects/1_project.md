@@ -1,18 +1,17 @@
 ---
 layout: page
-title: project 1
-description: Holograms
+title: Holography
+description: 
 img: assets/img/holo.gif
 importance: 1
 category: 
-related_publications: 
 ---
 
 Holograms are like magic. They bring together the best of aspects of science as a craft and of art as a craft. They are the technology that really opened my eyes, no pun intended, to the possibility for electrial engineering research to radically extend media in useful and artistic ways. Hologram optimization is a deep and fascinating engineering problem with many variables, and they are just fun to make. I took graduate coursework in holography as an undergraduate, and made a variety of holograms in different configurations, including Gabor in-line transmission, Denisyuk in-line reflection, and Leith & Upatnieks off-axis holograms. Shown below is a hologram I recently made experimenting with a new polymer recording material.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/video/holo.MOV" title="hologram" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/holo.gif" title="hologram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
