@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualization of Electromagnetic Waves
+title: EM Array Visualizer
 description: 1st Place - IEEE AP-S Student Design Contest 2021
 img: assets/img/array.gif
 importance: 2
