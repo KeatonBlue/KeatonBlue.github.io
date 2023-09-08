@@ -2,7 +2,7 @@
 layout: page
 title: Undergraduate Thesis
 description: Transparent transducers for phased arrays.
-img: assets/img/27kHzZonePlate.jpg
+img: assets/img/27kHzZonePlateSmall.jpg
 importance: 6
 category: 
 ---
