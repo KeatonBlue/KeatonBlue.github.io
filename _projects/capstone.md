@@ -13,11 +13,13 @@ In particular, I'm proud of this project becuase it was during the middle of the
 
 Read an article [here](https://ece.byu.edu/department-news/byu-capstone-team-creates-world-champion-educational-device).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="https://youtu.be/_vGKjpDf3a4?si=SRgDK2ijhTgysxp9" class="img-fluid rounded z-depth-1" %}
+<div class="d-flex justify-content-center flex-column align-items-center">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include video.html path="assets/video/design_contest.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    Video showcasing the completed project.
+    <div class="caption text-center">
+        Video showcasing the completed project.
+    </div>
 </div>
