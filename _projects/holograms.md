@@ -2,7 +2,7 @@
 layout: page
 title: Holography
 description: 
-img: assets/img/holo.gif
+img: assets/img/tiny_holo.gif
 importance: 3
 category: 
 ---
