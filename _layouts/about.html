@@ -44,6 +44,7 @@ layout: default
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+            <hr>
             {%- include news.html limit=true %}
           {%- endif %}
 
@@ -60,6 +61,7 @@ layout: default
           {%- endif %}
 
           <h3 id="media">Media</h3>
+          <hr>
           <p>▩ 2022: FUTURES PIXIE DUST RADIO – Interview on Tokyo FM <a href="https://audee.jp/voice/show/43655">[recording]</a> <br>
           ▩ 2021: “BYU Capstone team creates world-champion educational device” <a href="https://ece.byu.edu/department-news/byu-capstone-team-creates-world-champion-educational-device">[article]</a><br>
           ▩ 2021: “Electrical Engineering: A Pathway to New Forms of Creativity” – individual highlight <a href="https://ece.byu.edu/department-news/ee-a-pathway-to-new-forms-of-creativity">[article]</a></p>
