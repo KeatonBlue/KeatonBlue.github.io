@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: ▨▨▨ [Curriculum Vitae](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
+  address: ▨▨▨ [CURRICULUM VITAE](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,7 +23,6 @@ Previously, he earned a B.S. in Electrical Engineering from Brigham Young Univer
 In addition to his academic work, Keaton is a media artist, [prolific DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He exploits obsolete hardware systems, such as retro sound ICs, to produce club-focused music.
 
 ### Research
----
 His research interests include holography, volumetric displays, human-computer interaction, integrated photonics, and calm technology. He approaches research from an integrated left–right brain perspective.
 
 With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. His quest is to free users from the pixel prison of modern technology.
