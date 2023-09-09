@@ -7,7 +7,7 @@ importance: 5
 category: 
 ---
 
-A current project I'm working on involves using laser-induced plasma from a femtosecond laser as a controllable sound source. Publication soon.
+A current project I'm working on involves using laser-induced plasma from a femtosecond laser as a controllable sound source. Can't say much, but publication soon!
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">

@@ -7,7 +7,7 @@ importance: 3
 category: 
 ---
 
-Holograms are like magic. They bring together the best of aspects of science as a craft and of art as a craft. They are the technology that really opened my eyes, no pun intended, to the possibility for electrial engineering research to radically extend media in useful and artistic ways. Hologram optimization is a deep and fascinating engineering problem with many variables, and they are just fun to make. I took graduate coursework in holography as an undergraduate, and made a variety of holograms in different configurations, including Gabor in-line transmission, Denisyuk in-line reflection, and Leith & Upatnieks off-axis holograms. Shown below is a hologram I recently made experimenting with a new polymer recording material.
+Holograms are like magic. They bring together the best aspects of science as a craft and of art as a craft. They are the technology that really opened my eyes, no pun intended, to the possibility for electrial engineering research to radically extend media in useful and artistic ways. Hologram optimization is a deep and fascinating engineering problem with many variables. Plus, holograms are just fun to make. I took graduate coursework in holography as an undergraduate, and made a variety of holograms in different configurations, including Gabor in-line transmission, Denisyuk in-line reflection, and Leith & Upatnieks off-axis holograms. Shown below is a hologram I recently made experimenting with a new polymer recording material.
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">

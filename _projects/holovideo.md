@@ -7,7 +7,7 @@ importance: 1
 category: 
 ---
 
-The main thrust of my current research is to develop a near-eye holographic video platform based on acousto-optic modulation in lithium niobate. This so called ["leaky-mode" holography](https://www.nature.com/articles/nature12217) is unique compared to other holovideo approaches. Instead of pixelated devices, such as liquid crystal on silicon spatial light modulators, leaky-mode holography scans a beam using acoustic diffraction. An analog solution to an analog problem!
+The main thrust of my current research is to develop a near-eye holographic video display based on acousto-optic modulation with lithium niobate. This so called ["leaky-mode" holography](https://www.nature.com/articles/nature12217) is unique compared to other holovideo approaches. Instead of pixelated devices, such as liquid crystal on silicon spatial light modulators, leaky-mode holography scans a beam using acoustic diffraction. An analog solution to an analog problem!
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">
