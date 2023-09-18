@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Electrical Engineer
+subtitle: Electrical Engineer // Artist // DJ
 
 profile:
   align: left
