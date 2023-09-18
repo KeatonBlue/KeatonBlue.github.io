@@ -53,11 +53,10 @@ layout: default
           <hr>
           {%- assign sorted_projects = site.projects | sort: "importance" -%}
           <div class="grid">
-              {%- for project in sorted_projects -%}
-                <div class="grid-item">
-                  {%- include projects_horizontal.html project=project -%}
-                </div>
-              {%- endfor %}
+            <div class="grid-sizer"></div>
+            {%- for project in sorted_projects -%}
+              {%- include projects.html project=project -%}
+            {%- endfor %}
           </div>
 
           <!-- Latest posts -->
