@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Holography
-description: 
+description: Through a glass darkly
 img: assets/img/tiny_holo.gif
 importance: 3
 category: 

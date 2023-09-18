@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Holovideo
-description: Integrated optics for holographic video.
+description: Integrated optics for holographic video
 img: assets/img/proton_exchange.jpg
 importance: 1
 category: 

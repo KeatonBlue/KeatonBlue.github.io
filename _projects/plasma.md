@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plasma Acoustics
-description: 
+description: Optoacoustic transduction + volumetric displays
 img: assets/img/plasma_sound.gif
 importance: 5
 category: 

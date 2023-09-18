@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cleanroom
-description: 
+description: Microfabrication projects
 img: assets/img/oxide_dory.jpg
 importance: 4
 category: 

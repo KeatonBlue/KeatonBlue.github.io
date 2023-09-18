@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RAPTURES EP
-description: 
+description: Club music for handheld consumer electronics
 img: assets/img/1080.jpg
 importance: 7
 category: 
