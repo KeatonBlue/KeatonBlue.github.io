@@ -51,7 +51,14 @@ layout: default
           <!-- Projects -->
           <h2><a href="{{ '/projects/' | relative_url }}" style="color: inherit;">Portfolio</a></h2>
           <hr>
-          {% include projects.html %}
+          {%- assign sorted_projects = site.projects | sort: "importance" -%}
+          <div class="grid">
+              {%- for project in sorted_projects -%}
+                <div class="grid-item">
+                  {%- include projects.html project=project -%}
+                </div>
+              {%- endfor %}
+          </div>
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
