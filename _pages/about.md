@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Electrical Engineer // Artist // DJ
+subtitle: Electrical Engineer // Artist
 
 profile:
   align: left
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Keaton Blue Shurilla is a masters student in Informatics at the University of Tsukuba, researching in the [Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp/) advised by Prof. [Yoichi Ochiai](https://yoichiochiai.com/). He also works as a research assistant for [CYBERDYNE INC.](https://www.cyberdyne.jp/).
 
-Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in Prof. Daniel Smalley's [Electro-Holography Lab](https://www.smalleyholography.org/).
+Previously, he earned a B.S. in Electrical Engineering from Brigham Young University with university honors. He was an undergraduate research student in [Prof. Daniel Smalley's](https://scholar.google.co.jp/citations?user=qN41RegAAAAJ&hl=ja&oi=ao) [Electro-Holography Lab](https://www.smalleyholography.org/).
 
 In addition to his academic work, Keaton is a media artist, [DJ](https://soundcloud.com/keybluemusic) and producer of [electronic music](https://keyblue.bandcamp.com). He exploits obsolete hardware systems, such as retro computers, to produce club-focused music.
 
