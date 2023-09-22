@@ -27,4 +27,4 @@ His research interests include holography, volumetric displays, human-computer i
 
 With his research, Keaton seeks to design a future that unlocks user's creativity through seamlessly integrated next-gen media. His quest is to free users from the pixel prison of modern technology.
 
-His current research focus is on guided-wave acousto-optic devices for holographic video.
+His current research focus is on guided-wave acousto-optic devices for holographic video and multimodal volumetric displays.
