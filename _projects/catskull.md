@@ -2,7 +2,7 @@
 layout: page
 title: Catskull Electronics
 description: Online business for electronic music nerds
-img: assets/img/catskull_electronics.jpg
+img: assets/img/catskull_electronics.JPG
 importance: 8
 category: 
 ---
