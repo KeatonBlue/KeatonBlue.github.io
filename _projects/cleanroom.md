@@ -7,7 +7,7 @@ importance: 4
 category: 
 ---
 
-Both in research and in undegraduate coureswork I've completed many projects in a cleanroom environment. These include building MOSFETS from scratch, growing color pictures using oxide, and fabricating capacitive and piezoeletric transducers. I've used a variety of machines within the cleanroom, including UV lithography (spin coating, alignment, patterning, development, etc), vapour deposition, plasma cleaning, and various metrology instruments.
+Both in research and in undegraduate coureswork I've completed many projects in a cleanroom environment. These include building MOSFETS from scratch, growing tri-color images using oxide patterning, and fabricating capacitive and piezoeletric transducers. I've used a variety of machines within the cleanroom, including UV lithography (spin coating, alignment, patterning, development, etc), vapor deposition, plasma cleaning, and various optical metrology instruments.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

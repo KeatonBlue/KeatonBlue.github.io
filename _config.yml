@@ -9,9 +9,9 @@ last_name: Shurilla
 email: keaton_blue@digitalnature.slis.tsukuba.ac.jp
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal web for researcher and artist Keaton Shurilla.
-footer_text: 
+footer_text: Built with markdown, Jekyll, and github pages.
   
-keywords: keaton shurilla, holographym digital nature  # add your own keywords or leave empty
+keywords: keaton shurilla, holography, digital nature  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦋  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -7,7 +7,9 @@ importance: 1
 category: 
 ---
 
-The main thrust of my current research is to develop a near-eye holographic video display based on acousto-optic modulation with lithium niobate. This so called ["leaky-mode" holography](https://www.nature.com/articles/nature12217) is unique compared to other holovideo approaches. Instead of pixelated devices, such as liquid crystal on silicon spatial light modulators, leaky-mode holography scans a beam using acoustic diffraction. An analog solution to an analog problem!
+The main thrust of my current research is to develop an integrated holographic video display based on acousto-optic modulation with lithium niobate. This so called ["leaky-mode" holography](https://www.nature.com/articles/nature12217) is unique compared to other holovideo approaches. Instead of pixelated devices, such as liquid crystal on silicon spatial light modulators, leaky-mode holography scans a beam using acoustic diffraction. An analog solution to an analog problem!
+
+Importantly, lithium niobate is also transparent. Ultimately, I hope to design a near-eye augmented reality display. We're working on a new approach that we're very excited about!
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">
@@ -16,6 +18,6 @@ The main thrust of my current research is to develop a near-eye holographic vide
         </div>
     </div>
     <div class="caption text-center">
-        Evanescent prism coupling into a proton exchanged waveguide on lithium niobate.
+        Evanescent prism coupling into a proton exchanged waveguide I fabricated on lithium niobate.
     </div>
 </div>
