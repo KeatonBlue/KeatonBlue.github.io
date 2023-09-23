@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A handful of research from the last two years.
+description: A handful of projects from the last few years. I tried to keep it research oriented. But there are all sorts of projects that didn't make the cut such as the EL wire suits I built for a musical in high school (which script I wrote and directed), the arcade stick I built with my Father, or all the weird sound circuits that got me into engineering in the first place.
 nav: true
 nav_order: 2
 display_categories: [research]
