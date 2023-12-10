@@ -7,9 +7,9 @@ importance: 2
 category: 
 ---
 
-For our senior capstone projet at BYU, our team entered the IEEE AP-S Student Design Contest and won 1st place. Using an antenna array, software defined radio, a handful of raspberry pi's and a projector, we were able to create a display that demonstrated the direction of arrival of a handheld radio emitter, using beamforming. It was a good solidifying experiencing for the electromagnetics study I did as an undergraduate. One of my specific contributions was implementing the visualization code using openframeworks.
+For our senior capstone project at BYU, our team entered the IEEE AP-S Student Design Contest and won 1st place. Using an antenna array, software defined radio, a handful of raspberry pi's and a projector, we were able to create a display that demonstrated the direction of arrival of a handheld radio emitter, using beamforming. It was a good solidifying experiencing for the electromagnetics study I did as an undergraduate. One of my specific contributions was implementing the visualization code using openframeworks.
 
-In particular, I'm proud of this project becuase it was during the middle of the pandemic, and our scrappy team of undergraduates managed to take first place over a pool of international graduate teams!
+In particular, I'm proud of this project because it was during the middle of the pandemic, and our scrappy team of undergraduates managed to take first place over a pool of international graduate teams!
 
 Read an article about it [here](https://ece.byu.edu/department-news/byu-capstone-team-creates-world-champion-educational-device).
 
