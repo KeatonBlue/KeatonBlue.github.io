@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Catskull Electronics
-description: Online business for chipmusic hardware
+description: Online business for DIY synthesizers
 img: assets/img/catskull_electronics.JPG
 importance: 8
 category: 
