@@ -8,7 +8,7 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: ▨▨▨ [CURRICULUM VITAE](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -21,3 +21,5 @@ I am a MS student in informatics at the University of Tsukuba, advised by Prof. 
 My research is fixed at the nexus of mixed reality and physical informatics—I'm interested in designing interactive photonic systems using physical learning. My quest is to free us from the pixel prison of modern technology by creating spatially-concurrent cyber-physical interfaces. My current focus is on guided-wave acousto-optic devices for holographic video and multimodal volumetric displays.
 
 In addition to my academic work, I am a media artist, [DJ](https://soundcloud.com/keybluemusic) and write [electronic music](https://keyblue.bandcamp.com).
+
+▨▨▨ [curriculum vitae](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
