@@ -4,7 +4,9 @@
 
 // Typography
 
-p,
+p {
+  font-size: 0.94rem; // Add this line to set a new font size
+}
 h1,
 h2,
 h3,
