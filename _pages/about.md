@@ -22,4 +22,5 @@ My research is fixed at the nexus of mixed reality and physical informatics—I'
 
 In addition to my academic work, I am a media artist, [DJ](https://soundcloud.com/keybluemusic) and write [electronic music](https://keyblue.bandcamp.com).
 
+
 ▨▨▨ [curriculum vitae](https://KeatonBlue.github.io/assets/pdf/Shurilla_CV.pdf) ▧▧▧
