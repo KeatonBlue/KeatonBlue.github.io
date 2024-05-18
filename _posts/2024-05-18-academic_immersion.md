@@ -6,12 +6,12 @@ description: Applying the input hypothesis to efficiently learn technical subjec
 tags: research language-learning learning
 categories: academics
 toc:
-  beginning: true
+  sidebar: left
 citation: true
 ---
 It is difficult to learn dense technical subjects. Where do you begin, when there's an ocean of resources and a variety of projects to tackle? Techniques for language learning offers some hints.
 
-# The Input Hypothesis
+## The Input Hypothesis
 The idea of learning via massive amounts of input has gained popularity in language learning circles. The general trend is to bootstrap an initial learning period with a targeted amount of study, and then learn through immersion in normal content geared towards native speakers. This process can be paired with a spaced repetition system (e.g. anki) to speed up acquisition. The result is that output in a language—speaking and writing—is a function of input—listening and reading.
 
 For example, in Japanese a learner might:
@@ -25,7 +25,7 @@ Indeed, this is more or less what I did to pass the N1 on the Japanese Language 
 
 Number two above highlights the idea of "comprehensible input." That is, the chance of comprehending the media should be maximized with aids. Subtitled anime is a good example, because the person watching is simultaneously exposed to the spoken language (audio), the written language (subtitles), and the visual content of what is being described (the anime). If the content is barely comprehended then the learner doesn't learn much! Which is why jumping straight into reading full books probably isn't the most efficient learning method. The input should roughly match the learners ability.
 
-# Immersion Machine Learning
+## Immersion Machine Learning
 How can we apply this idea to an academic subject? With the same general idea—a period of targeted study at the outset, followed by learning through immersion.
 
 Let's use machine learning as an example:
@@ -41,7 +41,7 @@ This provides a powerful way to overcome endlessly building up base knowledge th
 
 The key challenge here is to identify what a good starting resource is, and to set a hard limit on getting through it in a timely fashion.
 
-# Bottom-up or Top-down?
+## Bottom-up or Top-down?
 The textbook Mathematics for Machine Learning<sup>2</sup> by Deisenroth, Faisal, and Ong contains a discussion at the outset on bottom-up vs. top-down learning. Similar to inductive vs. deductive learning, they give the following definitions:
 
 - **Bottom-up:** Building up the concepts from foundational to more advanced.
@@ -50,7 +50,7 @@ The textbook Mathematics for Machine Learning<sup>2</sup> by Deisenroth, Faisal,
 While doing everything bottom-up seems logical, it's hard to deny the power of learning by doing. Projects are essential to mastery—you won't learn to swim just by reading about swimming form. But, it is deeply frustrating to try to make something with insufficient background knowledge. Tightly targeted learning at the outset saves the headache of endlessly starting and abandoning learning resources and projects. Start with an appropriate amount of bottom-up before progressing into top-down, and then reference bottom-level concepts as needed to make progress.
 
 ---
-# References
+## References
 1. James, G., Witten, D., Hastie, T., Tibshirani, R. & Taylor, J. E. _An introduction to statistical learning: with applications in Python_. (Springer, 2023).
 2. Deisenroth, M. P., Faisal, A. A. & Ong, C. S. _Mathematics for Machine Learning_. (2020).
 
