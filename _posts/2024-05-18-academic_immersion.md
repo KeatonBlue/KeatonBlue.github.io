@@ -49,10 +49,9 @@ The textbook Mathematics for Machine Learning<sup>2</sup> by Deisenroth, Faisal,
 
 While doing everything bottom-up seems logical, it's hard to deny the power of learning by doing. Projects are essential to mastery—you won't learn to swim just by reading about swimming. But, it is deeply frustrating to try to make something with insufficient background knowledge. Tightly targeted learning at the outset saves the headache of endlessly starting and abandoning learning resources and projects. Start with an appropriate amount of bottom-up before progressing into top-down, and then reference bottom-level concepts as needed to make progress.
 
+P.S. You just read the first post on my blog! Thanks for swinging by.
+
 ---
 ## References
 1. James, G., Witten, D., Hastie, T., Tibshirani, R. & Taylor, J. E. _An introduction to statistical learning: with applications in Python_. (Springer, 2023).
 2. Deisenroth, M. P., Faisal, A. A. & Ong, C. S. _Mathematics for Machine Learning_. (2020).
-
-P.S. You just read the first post on my blog! Thanks for swinging by.
-
