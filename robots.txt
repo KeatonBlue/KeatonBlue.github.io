@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KeatonBlue.github.io/sitemap.xml
+Sitemap: https://keaton.blue/sitemap.xml
