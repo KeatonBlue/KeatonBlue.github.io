@@ -7,7 +7,7 @@ importance: 5
 category: 
 ---
 
-A current project I'm working on involves using laser-induced plasma from a femtosecond laser as a controllable sound source. We've achieved full music playback. I can't say much right now, but publication soon!
+SECRETS
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">
