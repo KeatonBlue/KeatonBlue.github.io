@@ -5,7 +5,7 @@
 If citing in academic contexts, please use:
 
 {% capture citation_quote -%}
-> {{ site.last_name }}, {{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} ({{ page.date | date: "%b %Y" }}). {{ page.title }}. {{ page.url }}.
+> {{ site.last_name }}, {{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} ({{ page.date | date: "%b %Y" }}). {{ page.title }}. {{ site.url }}{{ page.url }}.
 {%- endcapture %}
 {{ citation_quote | markdownify }}
 
