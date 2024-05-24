@@ -3,7 +3,7 @@ layout: post
 title:  AI is the hottest media
 date: 2024-05-24
 description: AI in terms of McLuhan's hot and cold media
-tags: research language-learning learning
+tags: research AI media
 categories: academics
 citation: true
 ---
