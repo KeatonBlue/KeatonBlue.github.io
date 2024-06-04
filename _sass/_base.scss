@@ -4,22 +4,14 @@
 
 // Typography
 
-p {
-  font-size: 0.9rem; // Add this line to set a new font size
-  line-height: 1.25rem;
-  font-family: "Computer Modern Bright", sans-serif;}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-em,
-div,
-li,
-span,
-strong {
+p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  font-family: "Computer Modern Bright", sans-serif;
+}
+
+p {
+  font-size: 0.9rem;
+  line-height: 1.25rem;
 }
 
 hr {
