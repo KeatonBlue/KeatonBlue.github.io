@@ -8,6 +8,7 @@ categories: academics
 toc:
   sidebar: left
 citation: true
+giscus_comments: true
 ---
 It is difficult to learn dense technical subjects. Where do you begin, when there's an ocean of resources and a variety of projects to tackle? Immersion based language learning offers a good model.
 

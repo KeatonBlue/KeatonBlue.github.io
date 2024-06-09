@@ -8,6 +8,7 @@ categories: academics
 citation: true
 toc:
   sidebar: left
+giscus_comments: true
 ---
 Marshall McLuhan's ever prophetic book *Understanding Media: The Extensions of Man*<sup>1</sup> discusses two types of media—hot and cold. Cold media is low definition and hot media is high definition. Cold media requires the user to supplement the lack of fidelity, to mentally fill in the blanks. Hot media fills your senses and leaves less to the imagination. AI, or more specifically human-AI interaction, is especially comprehensible in terms of McLuhan's hot and cold media. Which is it?
 
