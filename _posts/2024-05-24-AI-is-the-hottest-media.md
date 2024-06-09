@@ -6,6 +6,8 @@ description: AI in terms of McLuhan's hot and cold media
 tags: research AI media
 categories: academics
 citation: true
+toc:
+  sidebar: left
 ---
 Marshall McLuhan's ever prophetic book *Understanding Media: The Extensions of Man*<sup>1</sup> discusses two types of media—hot and cold. Cold media is low definition and hot media is high definition. Cold media requires the user to supplement the lack of fidelity, to mentally fill in the blanks. Hot media fills your senses and leaves less to the imagination. AI, or more specifically human-AI interaction, is especially comprehensible in terms of McLuhan's hot and cold media. Which is it?
 
@@ -16,7 +18,7 @@ To some extent, all media thinks for us. Even a blank piece of paper is used as 
 All of this begs the follow-up question: can AI be made cold to demand more of us? That, to me, is the most interesting research question in human-AI interaction. Even if AI is made to be more demanding—perhaps through cognitive forcing<sup>4</sup>—we are still leasing the direction of our thoughts to a proactive entity. It's direct manipulation vs. interface agents all over again.
 
 ---
-# References
+### References
 1. McLuhan, M. _Understanding Media: The Extensions of Man_. (MIT Press, 1994).
 2. Clark, A. & Chalmers, D. The Extended Mind. _Analysis_ **58**, 7–19 (1998).
 3. Kay, A. C. The Reactive Engine. (University of Utah, 1969).
