@@ -3,7 +3,7 @@ layout: page
 title: Realtime Radio Wave Visualizer
 description: 1st Place - IEEE AP-S Student Design Contest 2021
 img: assets/img/array.gif
-importance: 2
+importance: 3
 category: 
 ---
 

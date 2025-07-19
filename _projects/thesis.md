@@ -3,11 +3,11 @@ layout: page
 title: Transparent Ultrasonic Transducers
 description: Undergraduate Thesis
 img: assets/img/27kHzZonePlateSmall.jpg
-importance: 6
+importance: 7
 category: 
 ---
 
-As an undergraduate I completed a thesis, which made me the only EE graduate with university honors in my year. The topic was on fabricating transparent piezoelectric transducers to produce tactile feedback. This work was carried out as a team, and I made many contributions—in materials, prototyping, and analysis. Particularly, I gained lots of experience in the cleanroom, experience working with transparent electrode materials, and experience in rapid fabrication and prototyping. It was the project that began my research journey, so I will always be grateful for this period of my life!
+As an undergraduate I completed a thesis, which made me the only EE graduate with university honors in my year. The topic was on fabricating transparent piezoelectric transducers to produce tactile feedback. This work was carried out as a team, and I made many contributions in materials, prototyping, and analysis. Particularly, I gained lots of experience in the cleanroom, experience working with transparent electrode materials, and experience in rapid fabrication and prototyping. It was the project that began my research journey, so I will always be grateful for this period of my life!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -3,11 +3,11 @@ layout: page
 title: Plasma Acoustics
 description: Optoacoustic transduction + volumetric displays
 img: assets/img/plasma_sound.gif
-importance: 5
+importance: 6
 category: 
 ---
 
-SECRETS
+My works as a master's student included implementing a volumetric display based on laser generated plasma.
 
 <div class="d-flex justify-content-center flex-column align-items-center">
     <div class="row">
