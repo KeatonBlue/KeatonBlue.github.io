@@ -14,7 +14,7 @@ I have extensive experience using COMSOL Multiphysics to simulate photonic and o
         {% include figure.liquid path="assets/img/PE_Emode.png" title="optical mode" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/PLMMMode1.gif" title="acoustic mode" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PLMMode1.gif" title="MEMS devices" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/PE_Mmode.png" title="acoustic mode" class="img-fluid rounded z-depth-1" %}
