@@ -2,7 +2,7 @@
 layout: page
 title: Catskull Electronics
 description: Online business for DIY synthesizers
-img: assets/img/catskull_electronics.jpg
+img: assets/img/catskull_electronics.JPG
 importance: 9
 category: 
 ---
